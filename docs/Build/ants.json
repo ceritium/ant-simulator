@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ants.data.unityweb",
+"asmCodeUrl": "ants.asm.code.unityweb",
+"asmMemoryUrl": "ants.asm.memory.unityweb",
+"asmFrameworkUrl": "ants.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
