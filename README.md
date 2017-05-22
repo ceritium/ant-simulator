@@ -30,4 +30,4 @@ Improvements:
   
 Objective:
 
-Make a game.
+- Make a game.
