@@ -31,3 +31,6 @@ Improvements:
 Objective:
 
 - Make a game.
+- Game modes:
+  - Genetic algorithm.
+  - Player change params.
