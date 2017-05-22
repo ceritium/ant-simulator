@@ -15,6 +15,11 @@ Actions:
 - Ant dies if not found the nest after a while.
 - Create ants from nest food
 
+UI:
+
+- Zoom camera
+- Game stats
+
 Improvements:
 
 - Performance problem with pheromones, solutions: 
