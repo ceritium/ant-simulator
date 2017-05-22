@@ -1,6 +1,8 @@
 # ant-simulator
 
-![Screenshot](doc/screenshot.png "Screenshot")
+![Screenshot](docs/screenshot.png "Screenshot")
+
+[Demo](https://ceritium.github.io/ant-simulator/)
 
 
 # TODO:
